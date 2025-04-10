@@ -6,7 +6,7 @@ from weather import *
 # Will get the street address from the form and use it to get the lat/long
 # Will use the lat/long to then retrieve the weather data
 def clicked():
-  # Get values from form field
+  # Get values fromnnn form field
   street = street_entry.get()
   zip = zip_entry.get()
 
